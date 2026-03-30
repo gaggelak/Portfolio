@@ -1,6 +1,6 @@
 # 👋 Hi, Jacob
 
-**Full-Stack Developer & AI Engineer** building production systems across the entire stack — from data pipelines and AI assistants to web apps.
+**Data & AI Engineer** building production systems across the entire stack — from data pipelines and AI assistants to web apps.
 
 Most of my work lives in private repositories. Below is an overview of every project, what it does, and the technologies behind it.
 
