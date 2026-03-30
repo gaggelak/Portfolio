@@ -1,4 +1,4 @@
-# 👋 Hi, Jacob
+# 👋 Hi, I'm Jacob
 
 **Data & AI Engineer** building production systems across the entire stack — from data pipelines and AI assistants to web apps.
 
