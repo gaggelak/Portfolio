@@ -2,7 +2,9 @@
 
 **Data & AI Engineer** building production systems across the entire stack — from data pipelines and AI assistants to web apps.
 
-Most of my work lives in private repositories. Below is an overview of every project, what it does, and the technologies behind it.
+> ℹ️ **About this repository:** This is a showcase page only — it contains no source code. The actual code for each project lives in private repositories. This page exists purely to present an overview of the work I've done.
+
+Below is an overview of every project, what it does, and the technologies behind it.
 
 ---
 
